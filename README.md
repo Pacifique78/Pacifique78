@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pacifique
 - 👀 I’m interested in Software Development | Full Stack development | Mobile Apps | Desktop Apps | AI & Machine Learning
-- 🌱 I’m currently learning </>
+- 🌱 I’m always learning </>
 - 📫 How to reach me E-mail: tuyipaccy78@gmail.com, tel: +250786427476, LinkedIn: https://www.linkedin.com/in/pacifique-tuyizere-5b6643170/
 
 <!---
